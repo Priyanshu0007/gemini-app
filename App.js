@@ -4,7 +4,7 @@ import ChatBot from './src/ChatBot';
 
 export default function App() {
   return (
-    <SafeAreaView className="flex-1">
+    <SafeAreaView className="flex-1 mt-10">
       <ChatBot/>
       <StatusBar style="auto" />
     </SafeAreaView>
